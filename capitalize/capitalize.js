@@ -3,3 +3,4 @@ function capitalize(str){
     let str2 = str.slice(1, str.length)
     return  str1.concat(str2);
 }
+module.exports = capitalize;
