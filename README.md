@@ -11,7 +11,7 @@ npm install --save-dev jest
 ## Usage
 After installing jest and associated dependencies 
 ```bash 
-run npm test
+npm run test
 ``` 
 to run all tests.
 
